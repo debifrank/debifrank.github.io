@@ -32,6 +32,14 @@ remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
 
+# Theme Settings
+# header_pages: specify which pages should be displayed in navbar
+# footer: string, which will be inserted on the end of pages (no markdown, but html)
+# google_analytics: tracking id
+# listen_for_clients_preferred_style: boolean, used to allow users to choose light or dark style based on their preferences
+# style: to choose the predefined colors to use
+style: hacker
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
