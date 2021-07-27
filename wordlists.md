@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Works
-permalink: /works/
+title: Wordlists
+permalink: /wordlists/
 ---
 
-Here are things that I have worked on either in my own time or while working for Black Lantern Security:
+Some wordlists I've used:
 
-{% include works.html %}
+{% include wordlists.html %}
