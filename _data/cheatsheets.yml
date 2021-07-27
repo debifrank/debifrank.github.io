@@ -1,0 +1,56 @@
+- link: https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
+  name: SANS---metasploit cheat sheet
+- link: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+  name: g0tmi1k---priv esc
+- link: https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+  name: highon coffee---enumeration
+- link: https://highon.coffee/blog/nmap-cheat-sheet/
+  name: highon coffee---nmap
+- link: https://highon.coffee/blog/reverse-shell-cheat-sheet/
+  name: highon coffee---reverse shell
+- link: https://highon.coffee/blog/ssh-meterpreter-pivoting-techniques/
+  name: highon coffee---ssh and meterpreter pivoting
+- link: https://highon.coffee/blog/linux-commands-cheat-sheet/
+  name: highon coffee---linux commands
+- link: https://highon.coffee/blog/enum4linux-cheat-sheet/
+  name: highon coffee---enum4linux
+- link: https://tools.kali.org/information-gathering/smbmap
+  name: Kali---SMBMap
+- link: https://metalkey.github.io/shellshock-explained--exploitation-tutorial.html
+  name: metalkey---shellshock via curl
+- link: https://www.offensive-security.com/metasploit-unleashed/pivoting/
+  name: offensive security---meterpreter pivoting
+- link: https://www.offensive-security.com/metasploit-unleashed/proxytunnels/
+  name: offensive security---proxychains w/ meterpreter
+- link: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+  name: Upgrading Reverse Shells
+- link: http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
+  name: VI Cheat Sheet
+- link: https://countuponsecurity.files.wordpress.com/2016/09/jtr-cheat-sheet.pdf
+  name: John The Ripper Cheat Sheet
+- link: https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/
+  name: Linux---Find Files
+- link: https://allanfeid.com/content/cracking-zip-files-fcrackzip
+  name: FCrackZIP---zip cracking
+- link: https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
+  name: Windows Priv Esc
+- link: https://gist.github.com/hofmannsven/9164408
+  name: MySQL Cheat Sheet
+- link: https://pequalsnp-team.github.io/cheatsheet/steganography-101
+  name: Stego Cheat Sheet
+- link: https://payatu.com/guide-linux-privilege-escalation/
+  name: Payatu Priv-Esc
+- link: https://0day.work/hacking-with-latex/
+  name: LaTeX Command Execution
+- link: https://www.exploit-db.com/docs/english/44592-linux-restricted-shell-bypass-guide.pdf
+  name: Breaking rBash
+- link: https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
+  name: OSCP Guide (Windows Priv-Esc)
+- link: https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/
+  name: Linux Kernel Exploit List
+- link: http://user-agents.org/
+  name: User Agent List (Get robots.txt)
+- link: https://www.w3schools.com/js/js_window_navigator.asp
+  name: W3Schools JS Browser Info---Useful XSS
+- link: https://github.com/ihebski/DefaultCreds-cheat-sheet
+  name: Default Credentials---Cheat Sheet
