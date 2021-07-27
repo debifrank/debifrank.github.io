@@ -40,8 +40,10 @@ plugins:
 # style: to choose the predefined colors to use
 header_pages:
   - about.md
+  - works.md
   - tools.md
   - cheatsheets.md
+  - wordlists.md
 
 style: hacker
 
