@@ -1,0 +1,106 @@
+- link: https://www.insomniasec.com/downloads/publications/Practical%20PHP%20Object%20Injection.pdf
+  name: Insomnia - php object injection
+- link: https://www.youtube.com/watch?v=gTXMFrctYLE
+  name: php object injection video
+- link: https://www.pythonforbeginners.com/modules-in-python/how-to-use-simple-httpserver/
+  name: SimpleHTTPServer Setup
+- link: https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
+  name: GraphQL Setup and Usage
+- link: https://www.openwall.com/john/doc/EXAMPLES.shtml
+  name: John The Ripper Usage Examples
+- link: https://hashkiller.co.uk/md5-decrypter.aspx
+  name: Online Hash Cracker
+- link: https://github.com/kovetskiy/zabbixctl
+  name: Zabbix CTL - Install/Config/Usage
+- link: https://github.com/usit-gd/zabbix-cli/blob/master/docs/manual.rst#remove-user-from-usergroup
+  name: Zabbix CLI - Install/Config/Usage
+- link: https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt
+  name: Unix Wild Cards
+- link: https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/
+  name: $PATH Priv-Esc
+- link: http://steghide.sourceforge.net/documentation.php
+  name: Steghide Usage
+- link: https://github.com/Unode/firefox_decrypt
+  name: Firefox Decrypt
+- link: https://www.hackingtutorials.org/networking/upgrading-netcat-shells-to-meterpreter/
+  name: Upgrading Netcat Shells to Meterpreter
+- link: https://www.nongnu.org/quagga/docs/quagga.pdf
+  name: Quagga Documentation
+- link: http://cs.slu.edu/~espositof/teaching/4650/lab3/#p2
+  name: BGP Hijacking (course materials)
+- link: https://youtu.be/OriVKP2lcFc
+  name: BGP Hijacking Demo (not an instructional) (youtube)
+- link: https://youtu.be/9NBv7lKrG1A
+  name: BGP Hijacking (conceptual) (youtube)
+- link: https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-private-public-snmp-passwords-using-onesixtyone-0150332/
+  name: OneSixtyOne
+- link: https://www.criticalstart.com/2018/10/prtg-network-monitor-privilege-escalation/
+  name: PRTG Network Monitor---Priv Esc
+- link: https://packetstormsecurity.com/files/148334/PRTG-Command-Injection.html
+  name: PRTG Network Monitor---Priv Esc
+- link: https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob
+  name: OSCP Prep
+- link: https://www.maketecheasier.com/combine-multiple-pdf-files-with-pdftk/
+  name: PDFtk Merge/Encrypt
+- link: https://support.alertlogic.com/hc/en-us/articles/115005913586-01-03-18-Magento-1-8-1-9-Connect-Manager-PHP-Upload-
+  name: Magento 1.8/1.9 Connect Manager PHP Upload
+- link: https://www.foregenix.com/blog/anatomy-of-a-magento-attack-froghopper
+  name: Anatomy Of A Magento Attack---Froghopper
+- link: https://www.exploit-db.com/exploits/37977
+  name: Magento eCommerce---Remote Code Execution
+- link: https://support.alertlogic.com/hc/en-us/articles/115005913626-01-03-18-Magento-Neko-php-PHP-Web-Shell-
+  name: Magento Neko.php PHP Web Shell
+- link: https://pluginarchive.com/magento/magpleasure_filesystem
+  name: Magpleasure_Filesystem---Magento Extension
+- link: https://github.com/rebootuser/LinEnum
+  name: LinEnum
+- link: https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4
+  name: JWT token-based authentication
+- link: https://www.techrepublic.com/article/how-to-use-secure-copy-with-ssh-key-authentication/
+  name: Files over SSH with key
+- link: http://docs.pwntools.com/en/stable/about.html
+  name: PWNTools
+- link: https://www.youtube.com/watch?v=6S4A2nhHdWg
+  name: Bitterman CTF---ROP-Chains
+- link: https://versprite.com/blog/apt-mitm-package-injection/
+  name: APT Repo Poisoning
+- link: https://www.harmj0y.net/blog/powershell/powerup-a-usage-guide/
+  name: Windows PowerUp Priv-Esc Enumeration
+- link: https://www.hackingarticles.in/beginners-guide-to-impacket-tool-kit-part-1/
+  name: Impackit Tool kit Guide (Windows)
+- link: https://github.com/411Hall/JAWS
+  name: Just Another Windows (Enum) Script
+- link: https://www.youtube.com/watch?v=J2unwbMQvUo
+  name: IppSec---Giddy---Windows SQL Injection, Web-Powershell
+- link: https://nakedsecurity.sophos.com/2018/06/06/the-zip-slip-vulnerability-what-you-need-to-know/
+  name: ZipSlip Exploit (Zip File Upload Vulnerability)
+- link: http://www.portknocking.org/
+  name: Port Knocking
+- link: https://security.stackexchange.com/questions/146264/serving-a-php-webshell-without-running-it-locally
+  name: Serve Webshell W/O Upload
+- link: https://github.com/sailay1996/eternal-pulsar
+  name: Eternal-Pulsar Attack W/O MSF
+- link: https://github.com/3ndG4me/AutoBlue-MS17-010
+  name: EternalBlue Automated Script W/O MSF
+- link: https://www.exploit-db.com/exploits/42315
+  name: EternalBlue Python Script W/O MSF
+- link: https://pen-testing.sans.org/blog/2013/05/06/netcat-without-e-no-problem/
+  name: Netcat Reverse Shell without '-e' option
+- link: https://addaxsoft.com/blog/security/open-sdf-file-without-sql-server-management/
+  name: hMailServer---Open W/O SQL Server
+- link: https://github.com/GitMirar/hMailDatabasePasswordDecrypter
+  name: hMailServer Password Decrypter
+- link: https://githb.com/roughiz/Symlink-Directory-Traversal-smb-manually
+  name: Manual Samba Symlink Directory Traversal 3.x/4.x
+- link: https://byt3bl33d3r.github.io/automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html
+  name: Deathstar---Active Directory Automation
+- link: https://github.com/byt3bl33d3r/CrackMapExec/wiki
+  name: CrackMapExec---Active Directory Network Attacking
+- link: https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html
+  name: NTLM Relaying
+- link: https://pentest-tools.com/blog/xss-attacks-practical-scenarios/
+  name: Simple XSS Examples
+- link: https://aruljohn.com/mac/0004F2
+  name: MAC Address and OUI Lookup
+- link: https://luemmelsec.github.io/Circumventing-Countermeasures-In-AD/
+  name: Circumventing Countermeasures In AD
