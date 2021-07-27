@@ -39,7 +39,6 @@ plugins:
 # listen_for_clients_preferred_style: boolean, used to allow users to choose light or dark style based on their preferences
 # style: to choose the predefined colors to use
 header_pages:
-  - index.md
   - about.md
   - tools.md
   - cheatsheets.md
