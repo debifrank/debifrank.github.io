@@ -31,7 +31,6 @@ github_username:  debifrank
 remote_theme: debifrank/jekyll-theme-console
 plugins:
   - jekyll-feed
-  - jekyll-display-medium-posts
 
 # Theme Settings
 # header_pages: specify which pages should be displayed in navbar
