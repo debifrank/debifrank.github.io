@@ -1,10 +1,15 @@
-<h2> Latest Blog Posts </h2>
+{{ content }}
+{% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any conten>
 
-{% for e in site.medium_posts %}
+{%- if site.posts.size > 0 -%}
+    {%- for post in site.posts -%}
+	<div class="row">
+		<h2><a href="{{post.url | relative_url }}">{{ post.title }}</a></h2>
+	</div>
+	<div class="row">
+		<p>{{ post.abstract }}</p>
+	</div>
 
-<div class="row">
-	<h3>{{e.title}}</h3>
-	<p>{{e.feed_content}}</p>
-</div>
-
-{% endfor %}
+	<div class="divider" style="background-color:white; height:2px; width: 100%;"></div>		
+    {%- endfor -%}
+{%- endif -%}
