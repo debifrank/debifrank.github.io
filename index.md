@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Index
-permalink: /
+permalink: /home/
 ---
 
 Hey there, check out the other pages for fun stuff
