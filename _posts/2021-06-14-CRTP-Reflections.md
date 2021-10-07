@@ -5,7 +5,7 @@ abstract:   My hope is to provide those who are interested in the bootcamp, the 
 layout: post
 ---
 
-![Header Image](/assets/images/CRTP.jpeg)
+![Header Image](/assets/images/CRTP.jpeg =400x)
 
 At the beginning of this year (2021), I was given the opportunity to enroll in the Attacking and Defending Active Directory: Beginner’s Edition bootcamp offered by Pentester Academy. Included in this bootcamp is four live sessions with the instructor, a complete lab environment to practice in, a set of flags to obtain while in the lab and one attempt at the Certified Red Team Professional (CRTP) certification exam.
 
