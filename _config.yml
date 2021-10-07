@@ -21,7 +21,7 @@
 title: Debifrank's Blog
 email: "debifrank00@gmail.com"
 description: Ramblings and rantings of one infosec professional to anyone who will listen
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://debifrank.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: debifrank14
 github_username:  debifrank
