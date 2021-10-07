@@ -2,7 +2,7 @@
 title: CRTP Reflections
 date: 2021-06-14
 abstract:   My hope is to provide those who are interested in the bootcamp, the lab environment, or in the CRTP certification some insight into what skills are provided and the overall structure of the offerings. There are a large number of options out there and choosing the right one for you is important.
-layout: post
+layout: page
 ---
 
 ![Header Image](/images/CRTP.jpeg)
