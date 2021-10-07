@@ -25,7 +25,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://debifrank.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: debifrank14
 github_username:  debifrank
-
+excerpt_separator: <!--end_excerpt-->
 # Build settings
 #theme: jekyll-theme-console
 remote_theme: debifrank/jekyll-theme-console
