@@ -5,3 +5,5 @@ permalink: /home/
 ---
 
 Hey there, check out the other pages for fun stuff
+
+{% include home.html %}

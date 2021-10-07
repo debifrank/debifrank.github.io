@@ -31,6 +31,7 @@ github_username:  debifrank
 remote_theme: debifrank/jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-display-medium-posts
 
 # Theme Settings
 # header_pages: specify which pages should be displayed in navbar
@@ -48,6 +49,8 @@ header_pages:
 
 style: hacker
 
+collections:
+  - medium_posts
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
